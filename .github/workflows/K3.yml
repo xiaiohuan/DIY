@@ -65,6 +65,7 @@ jobs:
       run: |
         echo "src-git kenzo https://github.com/kenzok8/openwrt-packages" >> openwrt/feeds.conf.default
         echo "src-git small https://github.com/kenzok8/small" >> openwrt/feeds.conf.default
+        echo "src-git mtk https://github.com/Nossiac/mtk-openwrt-feeds;lede-17.01" >> openwrt/feeds.conf.default
 
     - name: 更新软件包
       run: cd openwrt && ./scripts/feeds update -a
@@ -108,7 +109,7 @@ jobs:
       uses: actions/upload-artifact@main
       if: steps.compile.outputs.status == 'success' && env.UPLOAD_BIN_DIR == 'true'
       with:
-        name: 软件包${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
+        name: Packages${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
         path: openwrt/bin
 
     - name: 整理文件
@@ -124,7 +125,7 @@ jobs:
       uses: actions/upload-artifact@main
       if: steps.organize.outputs.status == 'success' && !cancelled()
       with:
-        name: 固件${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
+        name: Firmware${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
         path: ${{ env.FIRMWARE }}
 
     - name: 上传固件到cowtransfer
