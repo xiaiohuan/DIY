@@ -12,9 +12,56 @@
 
 如果您未阅读完本页面，可能会遇到 **固件下载问题** ，若遇到问题，请 **返回此页面，认真完整阅读一遍** ~
 
-<p align="center"><img src="https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg" height="35" alt="图裂了😂"/></p>
+## 固件下载 [![](https://img.shields.io/badge/-支持设备、编译状态及固件下载-FFFFFF.svg)](#固件下载-)
 
-**点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面** 
+**点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面**
+
+<details>
+ <summary><b>&nbsp;&nbsp;&nbsp; 固件已安装的插件（以X86_64为准，精简版固件有删减）</b></summary>
+    
+<br/>
+
+|    序号   |     插件名称     |
+| :-----------------: | :-------------: |
+| 1 |luci-app-accesscontrol |
+| 2 |luci-app-adbyby-plus |
+| 3 |luci-app-aliddns |
+| 4 |luci-app-arpbind |
+| 5 |luci-app-autoreboot |
+| 6 |luci-app-cifs-mount |
+| 7 |luci-app-commands |
+| 8 |luci-app-ddns |
+| 9 |luci-app-diskman |
+| 10|luci-app-filetransfer |
+| 11|luci-app-firewall |
+| 12|luci-app-ipsec-vpnd |
+| 13|luci-app-kodexplorer |
+| 14|luci-app-mwan3 |
+| 15|luci-app-netdata |
+| 16|luci-app-nlbwmon |
+| 17|luci-app-nps |
+| 18|luci-app-passwall |
+| 19|luci-app-pppoe-relay |
+| 20|luci-app-pptp-server |
+| 21|luci-app-qbittorrent |
+| 22|luci-app-ramfree |
+| 23|luci-app-samba |
+| 24|luci-app-smartdns |
+| 25|luci-app-ssr-plus |
+| 26|luci-app-ttyd |
+| 27|luci-app-turboacc |
+| 28|luci-app-unblockmusic |
+| 29|luci-app-upnp |
+| 30|luci-app-uugamebooster |
+| 31|luci-app-vlmcsd |
+| 32|luci-app-vsftpd |
+| 33|luci-app-webadmin |
+| 34|luci-app-wol |
+| 35|luci-app-xlnetacc |
+| 36|luci-app-zerotier |
+
+</details>
+
 <details>
  <summary><b>&nbsp;&nbsp;&nbsp; X86 Soft Route</b></summary>
     
