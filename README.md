@@ -21,41 +21,41 @@
     
 <br/>
 
-|    序号   |     插件名称     |
-| :-----------------: | :-------------: |
-| 1 |luci-app-accesscontrol |
+|    序号   |     插件名称     |  精简    |
+| :-------: | :-------------: | :-----: |
+| 1 |luci-app-accesscontrol |*|
 | 2 |luci-app-adbyby-plus |
 | 3 |luci-app-aliddns |
 | 4 |luci-app-arpbind |
 | 5 |luci-app-autoreboot |
 | 6 |luci-app-cifs-mount |
-| 7 |luci-app-commands |
-| 8 |luci-app-ddns |
-| 9 |luci-app-diskman |
+| 7 |luci-app-commands |*|
+| 8 |luci-app-ddns |*|
+| 9 |luci-app-diskman |*|
 | 10|luci-app-filetransfer |
-| 11|luci-app-firewall |
+| 11|luci-app-firewall |*|
 | 12|luci-app-ipsec-vpnd |
 | 13|luci-app-kodexplorer |
-| 14|luci-app-mwan3 |
+| 14|luci-app-mwan3 |*|
 | 15|luci-app-netdata |
 | 16|luci-app-nlbwmon |
 | 17|luci-app-nps |
-| 18|luci-app-passwall |
+| 18|luci-app-passwall |*|
 | 19|luci-app-pppoe-relay |
 | 20|luci-app-pptp-server |
 | 21|luci-app-qbittorrent |
 | 22|luci-app-ramfree |
-| 23|luci-app-samba |
+| 23|luci-app-samba |*|
 | 24|luci-app-smartdns |
-| 25|luci-app-ssr-plus |
-| 26|luci-app-ttyd |
-| 27|luci-app-turboacc |
+| 25|luci-app-ssr-plus |*|
+| 26|luci-app-ttyd |*|
+| 27|luci-app-turboacc |*|
 | 28|luci-app-unblockmusic |
-| 29|luci-app-upnp |
+| 29|luci-app-upnp |*|
 | 30|luci-app-uugamebooster |
 | 31|luci-app-vlmcsd |
 | 32|luci-app-vsftpd |
-| 33|luci-app-webadmin |
+| 33|luci-app-webadmin |*|
 | 34|luci-app-wol |
 | 35|luci-app-xlnetacc |
 | 36|luci-app-zerotier |
