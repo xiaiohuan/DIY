@@ -26,10 +26,11 @@
 | 1 |luci-compat |*|
 | 2 |luci-mod-admin-full |*|
 | 3 |luci-newapi |*|
+|**|应用程序||
 | 4 |luci-app-accesscontrol |*|
 | 5 |luci-app-adblock ||
-| 6 |luci-app-adguardhome |*|
-| 7 |luci-app-aliddns |*|
+| 6 |luci-app-adguardhome ||
+| 7 |luci-app-aliddns ||
 | 8 |luci-app-argon-config |*|
 | 9 |luci-app-arpbind |*|
 | 10|luci-app-autoreboot |*|
@@ -50,17 +51,17 @@
 | 25|luci-app-passwall |*|
 | 26|luci-app-pppoe-relay ||
 | 27|luci-app-pptp-server ||
-| 28|luci-app-qbittorrent |*|
-| 29|luci-app-qbittorrent_dynamic |*|
-| 30|luci-app-ramfree |*|
+| 28|luci-app-qbittorrent ||
+| 29|luci-app-qbittorrent_dynamic ||
+| 30|luci-app-ramfree ||
 | 31|luci-app-samba |*|
 | 32|luci-app-smartdns ||
 | 33|luci-app-ssr-plus |*|
-| 34|luci-app-ttyd |*|
+| 34|luci-app-ttyd ||
 | 35|luci-app-turboacc |*|
 | 36|luci-app-unblockmusic ||
 | 37|luci-app-upnp |*|
-| 38|luci-app-usb-printer |*|
+| 38|luci-app-usb-printer ||
 | 39|luci-app-uugamebooster ||
 | 40|luci-app-vlmcsd ||
 | 41|luci-app-vsftpd ||
@@ -68,10 +69,12 @@
 | 43|luci-app-wol |*|
 | 44|luci-app-xlnetacc ||
 | 45|luci-app-zerotier ||
+|**|主题||
 | 46|luci-theme-argon |*|
 | 47|luci-theme-argon_new |*|
 | 48|luci-theme-bootstrap |*|
 | 49|luci-theme-edge ||
+|**|协议||
 | 50|luci-proto-bonding |*|
 | 51|luci-proto-ipip ||
 | 52|luci-proto-ipv6 |*|
