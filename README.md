@@ -23,42 +23,60 @@
 
 |    序号   |     插件名称     |  精简    |
 | :-------: | :-------------: | :-----: |
-| 1 |luci-app-accesscontrol |*|
-| 2 |luci-app-adbyby-plus |
-| 3 |luci-app-aliddns |
-| 4 |luci-app-arpbind |
-| 5 |luci-app-autoreboot |
-| 6 |luci-app-cifs-mount |
-| 7 |luci-app-commands |*|
-| 8 |luci-app-ddns |*|
-| 9 |luci-app-diskman |*|
-| 10|luci-app-filetransfer |
-| 11|luci-app-firewall |*|
-| 12|luci-app-ipsec-vpnd |
-| 13|luci-app-kodexplorer |
-| 14|luci-app-mwan3 |*|
-| 15|luci-app-netdata |
-| 16|luci-app-nlbwmon |
-| 17|luci-app-nps |
-| 18|luci-app-passwall |*|
-| 19|luci-app-pppoe-relay |
-| 20|luci-app-pptp-server |
-| 21|luci-app-qbittorrent |
-| 22|luci-app-ramfree |
-| 23|luci-app-samba |*|
-| 24|luci-app-smartdns |
-| 25|luci-app-ssr-plus |*|
-| 26|luci-app-ttyd |*|
-| 27|luci-app-turboacc |*|
-| 28|luci-app-unblockmusic |
-| 29|luci-app-upnp |*|
-| 30|luci-app-uugamebooster |
-| 31|luci-app-vlmcsd |
-| 32|luci-app-vsftpd |
-| 33|luci-app-webadmin |*|
-| 34|luci-app-wol |
-| 35|luci-app-xlnetacc |
-| 36|luci-app-zerotier |
+| 1 |luci-compat |*|
+| 2 |luci-mod-admin-full |*|
+| 3 |luci-newapi |*|
+| 4 |luci-app-accesscontrol |*|
+| 5 |luci-app-adblock ||
+| 6 |luci-app-adguardhome |*|
+| 7 |luci-app-aliddns |*|
+| 8 |luci-app-argon-config |*|
+| 9 |luci-app-arpbind |*|
+| 10|luci-app-autoreboot |*|
+| 11|luci-app-cifs-mount ||
+| 12|luci-app-commands |*|
+| 13|luci-app-ddns |*|
+| 14|luci-app-diskman |*|
+| 15|luci-app-filetransfer ||
+| 16|luci-app-firewall |*|
+| 17|luci-app-hd-idle |*|
+| 18|luci-app-ipsec-vpnd ||
+| 19|luci-app-kodexplorer ||
+| 20|luci-app-mwan3 ||
+| 21|luci-app-netdata ||
+| 22|luci-app-nfs |*|
+| 23|luci-app-nlbwmon |*|
+| 24|luci-app-nps ||
+| 25|luci-app-passwall |*|
+| 26|luci-app-pppoe-relay ||
+| 27|luci-app-pptp-server ||
+| 28|luci-app-qbittorrent |*|
+| 29|luci-app-qbittorrent_dynamic |*|
+| 30|luci-app-ramfree |*|
+| 31|luci-app-samba |*|
+| 32|luci-app-smartdns ||
+| 33|luci-app-ssr-plus |*|
+| 34|luci-app-ttyd |*|
+| 35|luci-app-turboacc |*|
+| 36|luci-app-unblockmusic ||
+| 37|luci-app-upnp |*|
+| 38|luci-app-usb-printer |*|
+| 39|luci-app-uugamebooster ||
+| 40|luci-app-vlmcsd ||
+| 41|luci-app-vsftpd ||
+| 42|luci-app-webadmin |*|
+| 43|luci-app-wol |*|
+| 44|luci-app-xlnetacc ||
+| 45|luci-app-zerotier ||
+| 46|luci-theme-argon |*|
+| 47|luci-theme-argon_new |*|
+| 48|luci-theme-bootstrap |*|
+| 49|luci-theme-edge ||
+| 50|luci-proto-bonding |*|
+| 51|luci-proto-ipip ||
+| 52|luci-proto-ipv6 |*|
+| 53|luci-proto-ppp |*|
+| 54|luci-proto-relay |*|
 
 </details>
 
