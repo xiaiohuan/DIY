@@ -1,7 +1,5 @@
 [![如页面部分图片无法显示，请直接点这里到末尾看修复教程](https://visitor-badge.glitch.me/badge?page_id=OpenWrt-DIY-visitor-badge)](#解决-github-网页上图片显示失败的问题) [![](https://img.shields.io/github/stars/XiaoSong0919/OpenWrt-DIY?color=FFFFFF)](https://github.com/XiaoSong0919/OpenWrt-DIY/stargazers) [![](https://img.shields.io/github/forks/XiaoSong0919/OpenWrt-DIY?color=FFFFFF)](https://github.com/XiaoSong0919/OpenWrt-DIY/network/members) [![](https://img.shields.io/github/release-date/XiaoSong0919/OpenWrt-DIY?color=FFFFFF&label=%E6%9B%B4%E6%96%B0%E6%97%A5%E6%9C%9F)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) [![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
-<a href="#readme">
-    <img src="https://img.vim-cn.com/48/6e4b91fdeefa201f93befdf858a13eefeaff5c.jpg" alt="图裂了😂" title="OpenWrt-DIY" align="right" height="180" />
-</a>
+
 
 [OpenWrt DIY — 多设备固件云编译](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
 ======================
@@ -16,8 +14,10 @@
 
 **点击下表中 [![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 即可跳转到该设备固件下载页面**
 
+**文件名带Lite的固件为该机型的精简固件；闪存小于16MiB的机型默认编译精简固件**
+
 <details>
- <summary><b>&nbsp;&nbsp;&nbsp; 固件已安装的插件（以X86_64为准，精简版固件有删减）</b></summary>
+ <summary><b>&nbsp;&nbsp;&nbsp; 固件已安装的插件（带*为精简固件插件）</b></summary>
     
 <br/>
 
@@ -153,7 +153,7 @@
 |    序号   |     设备平台     |   编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
 | 1 |     [![](https://img.shields.io/badge/OpenWrt-网件_R7800-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+R7800+OpenWrt%22)   | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Netgear%20R7800%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+R7800+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/r7800.config) |   |
-| 2 |     [![](https://img.shields.io/badge/OpenWrt-网件_3800-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+3800+OpenWrt%22)   | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Netgear%203800%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+3800+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/netgear3800.config) |   |
+| 2 |     [![](https://img.shields.io/badge/OpenWrt-网件_3800-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+3800+OpenWrt%22)   | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Netgear%203800%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Netgear+3800+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/netgear3800.config) | 精简 |
 </details>
 <details>
  <summary><b>&nbsp;&nbsp;&nbsp; Other Route</b></summary>
