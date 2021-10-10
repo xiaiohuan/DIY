@@ -101,7 +101,7 @@
 
 |    序号   |     设备平台     |   编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
-| 1 |        [![](https://img.shields.io/badge/OpenWrt-K2T-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2T+OpenWrt%22)           | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20K2T%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2T+OpenWrt%22)|[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/Lean_LEDE_K2T.config) | | 
+| 1 |        [![](https://img.shields.io/badge/OpenWrt-K2T-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2T+OpenWrt%22)           | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20K2T%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2T+OpenWrt%22)|[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/Lean_LEDE_K2T.config) | 精简 | 
 | 2 |        [![](https://img.shields.io/badge/OpenWrt-K2P-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2P+OpenWrt%22)           |[![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20K2P%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K2P+OpenWrt%22)|[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/Lean_LEDE_K2P.config) |闭源驱动&精简 | 
 | 3 |       [![](https://img.shields.io/badge/OpenWrt-K3-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K3+OpenWrt%22)           |[![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20K3%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+K3+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/k3.config)  |  | 
 </details>
@@ -182,7 +182,13 @@
 
 ## 近期更新 [![](https://img.shields.io/badge/-近期更新-F5F5F5.svg)](#近期更新-)
 
-更新日期：2021/10/07
+**2021/10/10更新**
+
+1. 新增X86、X86_64精简固件
+
+2. 修改网件R7800、WNDR3800，K2T、K3的编译配置
+
+**2021/10/07更新**
 
 1. 新增机型:RedMi AX6;Mi AX9000
 
