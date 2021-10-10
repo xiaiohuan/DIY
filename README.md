@@ -142,6 +142,7 @@
 | 4 |     [![](https://img.shields.io/badge/OpenWrt-小米_Mini-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+Mini+OpenWrt%22)   | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Mi%20Mini%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+Mini+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/Mi_mini.config) |精简|
 | 5 |    [![](https://img.shields.io/badge/OpenWrt-红米_AX6-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+RedMi+AX6+OpenWrt%22)     | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20RedMi%20AX6%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+RedMi+AX6+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/ax6.config) |带NSS加速| 
 | 6 |    [![](https://img.shields.io/badge/OpenWrt-小米_AX9000-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+AX9000+OpenWrt%22)     | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Mi%20AX9000%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+AX9000+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/ax9000.config) |带NSS加速| 
+| 6 |    [![](https://img.shields.io/badge/OpenWrt-小米_AX3600-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+AX3600+OpenWrt%22)     | [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Mi%20AX3600%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Mi+AX3600+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/ax3600.config) |带NSS加速| 
 </details>
 
 
@@ -187,6 +188,8 @@
 1. 新增X86、X86_64精简固件
 
 2. 修改网件R7800、WNDR3800，K2T、K3的编译配置
+
+3. 添加设备：Mi AX3600
 
 **2021/10/07更新**
 
