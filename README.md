@@ -162,7 +162,7 @@
 
 |    序号   |     设备平台     |   编译状态及下载链接 |   插件配置   | 备注说明   |
 | :-----------------: | :-------------: |:-----------------: | :-----------------: |  :-----------------: | 
-| 1 |    [![](https://img.shields.io/badge/OpenWrt-Newifi3_D2-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22)      |  [![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20Newifi%20D2%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+Newifi+D2+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/Newifi_D2.config)  | | 
+| 1 | [![](https://img.shields.io/badge/OpenWrt-N1_盒子-FFFFFF.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+N1+OpenWrt%22) |[![](https://github.com/XiaoSong0919/OpenWrt-DIY/workflows/Build%20N1%20OpenWrt/badge.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions?query=workflow%3A%22Build+N1+OpenWrt%22) |[![](https://img.shields.io/badge/编译-配置-orange.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/blob/main/config/Lean_Docker_LEDE_N1.config) | |
 </details>
 
 **提示：**[![](https://img.shields.io/badge/设备-passing-32CD32.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 标志为正常，[![](https://img.shields.io/badge/设备-failing-DC143C.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 或 [![](https://img.shields.io/badge/设备-no_status-A9A9A9.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 不代表所有编译均失败。请点击 [![](https://img.shields.io/badge/设备-状态-32CD32.svg)](https://github.com/XiaoSong0919/OpenWrt-DIY/actions) 到 **Actions** 进一步查看。
