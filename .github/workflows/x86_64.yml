@@ -128,6 +128,13 @@ jobs:
         name: Firmware${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
         path: ${{ env.FIRMWARE }}
 
+    - name: 上传源码
+      uses: actions/upload-artifact@main
+      if: steps.organize.outputs.status == 'success' && !cancelled()
+      with:
+        name: Source${{ env.DEVICE_NAME }}${{ env.FILE_DATE }}
+        path: openwrt
+
     - name: 上传固件到cowtransfer
       id: cowtransfer
       if: steps.organize.outputs.status == 'success' && env.UPLOAD_COWTRANSFER == 'true' && !cancelled()
